@@ -1,6 +1,7 @@
-title: Поставщики данных
+title: 2. Поставщики данных
 optionalCategoryIndex: true
-supportedLanguages: []
+supportedLanguages:
+  - ru
 language: ru
 properties: []
 description: Настройка подключения к брокерам и биржам
