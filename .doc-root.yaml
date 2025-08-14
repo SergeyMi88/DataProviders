@@ -6,3 +6,5 @@ language: ru
 properties: []
 description: Настройка подключения к брокерам и биржам
 style: green-orange
+group: tslab
+order: 2
